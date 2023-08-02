@@ -1,3 +1,11 @@
+# Simple Money Management
+
+This is an application where you can keep track what you spend on and earn, with a visible balance combining all transactions. To use this app, follow:
+
+1) Git clone repository.
+2) Create Database in MongoDB and enter your given "password" in the URL used in the repository.
+3) Track your budgeting!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
